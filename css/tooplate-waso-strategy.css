@@ -372,19 +372,19 @@ strong {
   height: calc(100vh - 133px);
 }
 #assinat_cover{
-  background-image: url('../images/assinat\ cover.png');
+  background-image: url('../images/assinat\ cover.jpg');
 }
 #tiziri_cover{
-  background-image: url('../images/tiziri\ cover.png');
+  background-image: url('../images/tiziri\ cover.jpg');
 }
 #arinas_cover{
-  background-image: url('../images/arinas\ cover.png');
+  background-image: url('../images/arinas\ cover.jpg');
 }
 #tanalt_cover{
-  background-image: url('../images/tanalt\ cover.png');
+  background-image: url('../images/tanalt\ cover.jpg');
 }
 #tilelli_cover{
-  background-image: url('../images/tilelli\ cover.png');
+  background-image: url('../images/tilelli\ cover.jpg');
 }
 .section-hero {
   background-repeat: no-repeat;
